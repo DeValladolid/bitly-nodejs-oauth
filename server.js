@@ -5,8 +5,8 @@ var sys = require('sys'),
     url = require('url');
 
 // ENTER YOUR CLIENT ID, CLIENT SECRET AND REDIRECT_URI
-var CLIENT_ID = "";
-var CLIENT_SECRET = "";
+var CLIENT_ID = "bmduero";
+var CLIENT_SECRET = "2dac29e714705b7fedc2fabf74901477a81b0ed1";
 var REDIRECT_URI = "https://.../callback"; 
 
 
